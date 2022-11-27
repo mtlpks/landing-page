@@ -14,7 +14,7 @@ body {
     gap: 550px;
 }
 
-#hero, #footer, #header {
+#hero, #header {
     display: flex;
     background-color: #3e2055;
 }
@@ -165,11 +165,10 @@ button {
 }
 
 .footer {
-    background-color: #3e2055;
-    color: white;
-    justify-content: space-between;
+    display: flex;
     align-items: center;
-    padding: 30px 100%;
-    width: 250px;
-
+    justify-content: center;
+    background: #3e2055;
+    padding: 32px;
+    color: white;
 }
