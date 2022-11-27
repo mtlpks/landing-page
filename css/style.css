@@ -35,7 +35,7 @@ a {
     color: white;
 }
 
-#hero-text, #hero-subtext, #logo {
+#hero-text, #hero-subtext {
     color: #f9faf8;
 }
 
@@ -58,11 +58,6 @@ a {
     padding-top: 70px;
 }
 
-#logo {
-    font-size: 24px;
-    font-weight: bold;
-}
-
 button {
     color: white;
     background-color: #3882f6;
@@ -73,7 +68,7 @@ button {
 }
 
 #logoimg {
-    height: 65px;
+    height: 80px;
 }
 
 #third-part {
