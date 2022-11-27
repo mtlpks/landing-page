@@ -16,7 +16,6 @@ body {
 
 #hero, #header {
     display: flex;
-    background-color: #3e2055;
 }
 
 #heroimg {
@@ -172,4 +171,12 @@ button {
     background: #3e2055;
     padding: 32px;
     color: white;
+}
+
+#header {
+    background-color: #3e2055;
+}
+
+#hero {
+    background-color: #462361;
 }
